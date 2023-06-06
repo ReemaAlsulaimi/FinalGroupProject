@@ -1,0 +1,89 @@
+
+  .logo{
+    width: 100%;
+    background-color: #474457;
+    display: flex;
+    justify-content: center;
+   
+  }
+  .GetStartedButton{
+    border-radius: 25px;
+    padding: 10px;
+    width: 100px;
+    height: 40px;
+    background-color: #F4E2AC;
+    border: none;
+    margin-top: 250px;
+   margin-left: 20%;
+  }
+
+  .buttonDiv{
+    display: flex;
+    justify-content: center;
+  }
+
+  .logo2{
+margin-top: 10px;
+  }
+
+  .LogInButton{
+    border-radius: 25px;
+    padding: 30px;
+    width: 160px;
+    height: 70px;
+    background-color: #474457;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    border: none;
+  }
+  .SignUpButton{
+    border-radius: 25px;
+    padding: 30px;
+    width: 160px;
+    height: 70px;
+    background-color: white;
+    border: none;
+  }
+  .fa {
+    border-radius: 25px;
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+
+  .fa-facebook {
+    background: #E9E9EB;
+    color: black;
+  }
+  .fa-google {
+    background: #E9E9EB;
+    color: black;
+  }
+  .home{
+    background-image:url("../images/image\ 24\ \(2\).png");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: top;
+    margin: 0px !important;
+
+
+  }
+  .secondPage{
+   
+    margin: 0px !important;
+    background-color: #E9E9EB;
+    height: 100vh;
+  }
+  .buttonsClass{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .icons{
+    display: flex;
+    justify-content: center;
+    
+  }
